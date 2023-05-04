@@ -16,6 +16,8 @@
     "url": "(https://github.com/Gudster/testing-with-jest)"
   },
   "dependencies": {
+    "chromium": "^3.0.3",
+    "selenium-webdriver": "^4.9.0",
     "underscore": "^1.13.6",
     "webpack": "^5.82.0"
   },
