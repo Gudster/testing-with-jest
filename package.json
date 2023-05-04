@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "(https://github.com/Gudster/testing-with-jest)"
+  },
+  "dependencies": {
+    "underscore": "^1.13.6"
   }
 }
